@@ -1,7 +1,12 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to bottom, #8B4513, #F5F5DC); /* Brown to Light Beige gradient */
+    body {
+        background: linear-gradient(to bottom, rgb(255, 255, 255), #d3ac8b);
+        margin: 0;
+        padding-top: 150px;
+        padding-bottom: 150px;
+    
 }
 
 header {
